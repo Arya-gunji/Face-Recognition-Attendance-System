@@ -1,0 +1,9 @@
+Face_Attendance_System/
+│
+├── Images/
+│   ├── Arya.jpg
+│   ├── Rahul.jpg
+│
+├── Attendance.csv
+│
+└── attendance.py
